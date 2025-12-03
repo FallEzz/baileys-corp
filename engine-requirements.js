@@ -1,5 +1,5 @@
-let chalk import"chalk";
-let gradient import"gradient-string";
+let chalk = import("chalk")
+let gradient = import("gradient-string")
 
 
 const major = parseInt(process.versions.node.split('.')[0], 10);
